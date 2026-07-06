@@ -5,12 +5,12 @@
 #EXT-X-INDEPENDENT-SEGMENTS
 
 #EXTINF:2,
-segment-1-1.ts
+https://raw.githubusercontent.com/bmrhat/nokotan-hls/refs/heads/main/segment-1-1.ts
 #EXTINF:2,
-segment-1-2.ts
+https://raw.githubusercontent.com/bmrhat/nokotan-hls/refs/heads/main/segment-1-2.ts
 #EXTINF:2,
-segment-1-3.ts
+https://raw.githubusercontent.com/bmrhat/nokotan-hls/refs/heads/main/segment-1-3.ts
 #EXTINF:1.012426303855,
-segment-1-4.ts
+https://raw.githubusercontent.com/bmrhat/nokotan-hls/refs/heads/main/segment-1-4.ts
 
 #EXT-X-ENDLIST
